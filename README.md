@@ -8,6 +8,9 @@ GNU Radio was used as baseline.
 The implementation consists of:
 
 -a bi-directional communication οn the reciever and the transmiter node.
+
 -transmitter to receiver for the basic transmition of the packets.
+
 -receiver to transmiter for the feedback channel.
+
 -compression on the packets.
